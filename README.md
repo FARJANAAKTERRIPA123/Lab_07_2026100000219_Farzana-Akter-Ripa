@@ -1,5 +1,6 @@
 # Farjana-Akter-Ripa-2026100000219
-This repository was created on 8 September 2026 for CSE 1102 Section 9 in order to learn and practice GitHub, Markdown, version control, and GitHub Pages.
+This repository was created on 8 September 2026 for CSE 1102 Section 9 in order to complete lab tasks and develop practical skills in computer science.
+
 
 ## What is the Version Control?
 Version Control is a system that track and manages change in files and projects over time . It helps us to see old version and work safely with others. 
